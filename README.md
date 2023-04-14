@@ -1,7 +1,3 @@
-<picture>
- <img alt="colorful photo of me" src="https://www.darkartistry.com/wp-content/uploads/2022/07/funny-1-avat.png">
-</picture>
-
 Working on a flet based project and will add anything useful here.
 
 <!--
